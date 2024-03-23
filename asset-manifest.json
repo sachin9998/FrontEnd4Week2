@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/repo-address/static/css/main.710b8bd6.css",
-    "main.js": "/repo-address/static/js/main.9a7f576e.js",
-    "static/js/787.25684147.chunk.js": "/repo-address/static/js/787.25684147.chunk.js",
-    "index.html": "/repo-address/index.html",
-    "static/media/user-1-svgrepo-com.svg": "/repo-address/static/media/user-1-svgrepo-com.1240f913554720484940c866d3a92782.svg",
-    "main.710b8bd6.css.map": "/repo-address/static/css/main.710b8bd6.css.map",
-    "main.9a7f576e.js.map": "/repo-address/static/js/main.9a7f576e.js.map",
-    "787.25684147.chunk.js.map": "/repo-address/static/js/787.25684147.chunk.js.map"
+    "main.css": "/FrontEnd4Week2/static/css/main.710b8bd6.css",
+    "main.js": "/FrontEnd4Week2/static/js/main.4c7f99cd.js",
+    "static/js/787.25684147.chunk.js": "/FrontEnd4Week2/static/js/787.25684147.chunk.js",
+    "index.html": "/FrontEnd4Week2/index.html",
+    "static/media/user-1-svgrepo-com.svg": "/FrontEnd4Week2/static/media/user-1-svgrepo-com.1240f913554720484940c866d3a92782.svg",
+    "main.710b8bd6.css.map": "/FrontEnd4Week2/static/css/main.710b8bd6.css.map",
+    "main.4c7f99cd.js.map": "/FrontEnd4Week2/static/js/main.4c7f99cd.js.map",
+    "787.25684147.chunk.js.map": "/FrontEnd4Week2/static/js/787.25684147.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.710b8bd6.css",
-    "static/js/main.9a7f576e.js"
+    "static/js/main.4c7f99cd.js"
   ]
 }
