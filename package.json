@@ -1,7 +1,7 @@
 {
   "name": "f4-contest2",
   "version": "0.1.0",
-  "homepage": "https://sachin9998.github.io/repo-address",
+  "homepage": "https://sachin9998.github.io/FrontEnd4Week2",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
